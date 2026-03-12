@@ -1,67 +1,38 @@
 ---
-layout: single
+layout: splash
 title: "David J. Amptmeijer"
-classes: wide
 header:
   overlay_image: /images/WithPenguins.jpg
   overlay_filter: 0.35
+  caption: "Fieldwork and ecosystem research"
 ---
 
-<div style="display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start; margin-top:20px;">
+## Environmental Scientist  
+### Mercury Cycling | Aquatic Biogeochemistry | Bioaccumulation Modelling
 
-<div style="flex:1; min-width:250px; max-width:300px;">
+I am an environmental scientist studying **inorganic and organic mercury cycling**, **methylmercury bioaccumulation**, and **exposure pathways in aquatic ecosystems**.
 
-<img src="/images/Nioz.jpg" alt="David Amptmeijer" style="border-radius:10px; width:100%;">
+My research combines **field observations, ecosystem modelling, and biogeochemical simulations** to understand how mercury moves through marine and freshwater food webs.
 
-</div>
+From **2020–2026**, I completed my PhD at **Helmholtz-Zentrum Hereon** and **Universität Hamburg**, where I investigated the **biological and environmental controls of methylmercury formation and bioaccumulation**.
 
-<div style="flex:2; min-width:300px;">
-
-# David J. Amptmeijer  
-**Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry**
-
-I am an environmental scientist studying **inorganic and organic mercury cycling**, **methylmercury bioaccumulation**, and **exposure pathways** in aquatic ecosystems.
-
-My research combines **field observations, laboratory insights, and ecosystem modelling** to understand how mercury moves through marine and freshwater food webs and ultimately reaches humans.
-
-From **2020–2026**, I completed my PhD at **Helmholtz-Zentrum Hereon** and **Universität Hamburg**, investigating the **biological and environmental controls on methylmercury formation and bioaccumulation**.
-
-My work focuses on:
-
-- Mercury speciation in aquatic systems  
-- Bioaccumulation in marine food webs  
-- Biogeochemical and ecosystem modelling  
-- DOM interactions and demethylation processes  
-- Environmental exposure pathways
-
-📧 **Email:** david.amptmeijer@hereon.de  
-🔗 **LinkedIn:** https://www.linkedin.com/in/david-amptmeijer-13097615b/
-
-</div>
-
-</div>
+📧 david.amptmeijer@hereon.de  
+🔗 [LinkedIn](https://www.linkedin.com/in/david-amptmeijer-13097615b)
 
 ---
 
-## Research Overview
+## Research Themes
 
-My research aims to improve our understanding of how **methylmercury forms, accumulates, and transfers through aquatic ecosystems**.
+{% include feature_row %}
 
-By integrating **biogeochemical models**, **ecosystem simulations**, and **field observations**, I study how environmental processes regulate mercury exposure in marine and freshwater food webs.
+{% assign features = site.data.features.research %}
 
-Key research themes include:
-
-- **Bioaccumulation modelling** in marine ecosystems  
-- **Mercury speciation** and transformation processes  
-- **Food-web transfer of methylmercury**  
-- **Biological and microbial demethylation pathways**
+{% include feature_row id="research" type="center" %}
 
 ---
 
-## Quick Links
+## Explore
 
-- 📄 [Curriculum Vitae](/cv/)
-- 📚 [Publications](/publications/)
-- 🧪 [Research](/research/)
-- 🚢 [Projects](/projects/)
-- 🎤 [Media & Outreach](/media/)
+{% assign features = site.data.features.links %}
+
+{% include feature_row id="links" %}
