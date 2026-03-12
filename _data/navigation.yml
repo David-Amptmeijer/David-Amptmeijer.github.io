@@ -11,5 +11,5 @@ main:
 #  - title: "Projects"
 #    url: /projects/
 
-#  - title: "Media"
-#    url: /media/
+  - title: "Models"
+    url: /models/
