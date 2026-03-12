@@ -3,12 +3,15 @@ layout: default
 title: Home
 ---
 
-# David Amptmeijer  
-**Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry**
+# David J. Amptmeijer  
+**Environmental Scientist | Marine & Freshwater Mercury Cycling | Bioaccumulation Modelling**
 
-Welcome to my academic website. I work on mercury (Hg) cycling, ecosystem modeling, and the dynamics of methylmercury (MeHg) bioaccumulation in aquatic systems. My research focuses on linking atmospheric deposition, hydrodynamics, and biogeochemical processes to understand how contaminants propagate through freshwater and marine food webs.
+I am a researcher working on **inorganic and organic mercury cycling**, **bioaccumulation**, and **exposure pathways** in aquatic ecosystems. My work combines field observations, process-based models, and ecosystem simulations to understand how mercury enters and moves through food webs.
 
-This website contains my CV, research projects, publications, modeling work, and photos from field campaigns and research cruises.
+From 2020–2026, I completed my PhD at the **Helmholtz-Zentrum Hereon** and **Universität Hamburg**, where I investigated the biological and environmental controls of methylmercury formation and bioaccumulation.
 
-📧 Contact: *add your email here*  
-GitHub: [github.com/David-Amptmeijer](https://github.com/David-Amptmeijer)  
+My research spans hydrodynamic–biogeochemical modelling, marine and freshwater food webs, benthic exposure pathways, and the role of DOM and demethylation in reducing MeHg burdens.
+
+📧 **Email:** david.amptmeijer@hereon.de  
+🔗 **LinkedIn:** https://www.linkedin.com/in/david-amptmeijer  
+``
