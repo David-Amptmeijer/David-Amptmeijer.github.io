@@ -1,14 +1,12 @@
 ---
 ---
 
-@import "minimal-mistakes";
-
-/* Increase splash banner height */
+/* Increase banner height */
 .page__hero--overlay {
   min-height: 900px;
 }
 
-/* Move title slightly down on the banner */
+/* Move text slightly down */
 .page__hero__inner {
   padding-top: 180px;
 }
