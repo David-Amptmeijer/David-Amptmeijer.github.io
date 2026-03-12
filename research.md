@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
 My research focuses on mercury cycling in aquatic systems, with an emphasis on the processes that transform inorganic mercury into methylmercury (MeHg) and the biological mechanisms that regulate its bioaccumulation in marine and freshwater food webs.
 
 ---
