@@ -11,7 +11,7 @@ header:
 
 <div style="flex:1; min-width:250px; max-width:300px;">
 
-<img src="/images/Nioz.jpg" alt="David Amptmeijer" style="border-radius:10px; width:100%;">
+<img src="/images/NIOZ.jpg" alt="David Amptmeijer" style="border-radius:10px; width:100%;">
 
 </div>
 
