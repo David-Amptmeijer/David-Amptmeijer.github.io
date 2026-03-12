@@ -1,10 +1,8 @@
 ---
 layout: single
-title: CV
+title: Curriculum Vitae — David J. Amptmeijer
 permalink: /cv/
 ---
-
-# Curriculum Vitae — David J. Amptmeijer
 
 📧 **Email:** david.amptmeijer@hereon.de  
 📍 **Location:** Bremerhaven, Germany  
