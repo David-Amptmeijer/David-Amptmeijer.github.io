@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: single
 title: CV
+permalink: /cv/
 ---
 
 # Curriculum Vitae — David J. Amptmeijer
