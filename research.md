@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Research
-permalink: /media/
+permalink: /research/
 ---
 
 # Research
