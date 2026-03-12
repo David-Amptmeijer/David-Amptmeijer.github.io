@@ -13,7 +13,7 @@ permalink: /models/
     </p>
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="/assets/images/Nioz.jpg" alt="ECOSMO_E2E-MERCY-GOTM Model" style="max-width: 100%; height: auto;"/>
+    <img src="/assets/images/Ecosmo.png" alt="ECOSMO_E2E-MERCY-GOTM Model" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
 
@@ -26,7 +26,7 @@ permalink: /models/
     </p>
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center; order: 1;">
-    <img src="/assets/images/Nioz.jpg" alt="ECOSMO_FS-MERCY-GOTM Model" style="max-width: 100%; height: auto;"/>
+    <img src="/assets/images/Models.png" alt="ECOSMO_FS-MERCY-GOTM Model" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
 
@@ -38,6 +38,6 @@ permalink: /models/
     </p>
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="/assets/images/Nioz.jpg" alt="ECOSMO-Sponge Model" style="max-width: 100%; height: auto;"/>
+    <img src="/assets/images/SpongeGraphicalAbstract.png" alt="ECOSMO-Sponge Model" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
