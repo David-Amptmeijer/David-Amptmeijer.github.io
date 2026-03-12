@@ -44,11 +44,11 @@ permalink: /models/
 ## [ECOSMO_FS-MERCY-GOTM](https://bg.copernicus.org/articles/22/7483/2025/bg-22-7483-2025.pdf)
 <div class="model-row">
   <div class="model-image">
-    <img src="/images/Models.png" alt="ECOSMO_FS-MERCY-GOTM Model"/>
+    <img src="/images/Model.png" alt="ECOSMO_FS-MERCY-GOTM Model"/>
   </div>
   <div class="model-text">
     <p>
-      ECOSMO_FS-MERCY-GOTM adds **feeding strategy dynamics**, exploring how prey selection and trophic behavior influence MeHg bioaccumulation. Links prey composition, DOM uptake, and demethylation rates to Hg transfer in mid-trophic fish and benthic consumers.
+      ECOSMO_FS-MERCY-GOTM adds feeding strategy dynamics, exploring how prey selection and trophic behavior influence MeHg bioaccumulation. This model foccusses on linking MeHg bioaccumulation in high trophic level to the feeding strategy at the base of the food web. 
     </p>
   </div>
 </div>
