@@ -1,9 +1,10 @@
 ---
 ---
 
-/* Increase the height of the splash header image */
-.page__hero--overlay {
-  min-height: 1800px;     /* Default ~300px → now double */
+/* Increase the height of the splash hero banner */
+.splash .page__hero--overlay {
+  min-height: 1800px !important;
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
