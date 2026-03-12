@@ -2,8 +2,6 @@
 layout: splash
 title: "David J. Amptmeijer"
 
-classes: wide
-
 header:
   overlay_image: /images/WithPenguins.jpg
   overlay_filter: 0.35
