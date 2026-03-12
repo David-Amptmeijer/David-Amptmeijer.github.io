@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: single
 title: "Media"
+permalink: /media/
 ---
 
 # Media
