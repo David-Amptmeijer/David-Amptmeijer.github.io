@@ -1,0 +1,15 @@
+
+theme: minima
+
+title: "David Amptmeijer"
+description: "Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry"
+
+# Enable site-wide navigation
+header_pages:
+  - cv.md
+  - research.md
+  - publications.md
+  - projects.md
+  - media.md
+
+markdown: kramdown
