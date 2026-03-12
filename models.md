@@ -11,6 +11,73 @@ permalink: /models/
   align-items: flex-start;
   gap: 40px;
   margin-bottom: 60px;
+
+  width: 66.66%;      /* 2/3 of the screen */
+  margin-left: auto;   /* center horizontally */
+  margin-right: auto;
+}
+
+.model-text, .model-image {
+  flex: 1 1 45%;       /* columns take ~45% each */
+  min-width: 300px;
+}
+
+.model-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</style>
+
+## ECOSMO_E2E-MERCY-GOTM
+<div class="model-row">
+  <div class="model-text">
+    <p>
+      ECOSMO_E2E-MERCY-GOTM couples the ECOSMO E2E ecosystem model with GOTM hydrodynamics and the MERCY mercury module to study mercury cycling in marine ecosystems. Explicitly resolves iHg and MeHg speciation, linking atmospheric deposition to bioaccumulation in mid-trophic level fish. Captures DOM cycling, benthic-pelagic coupling, and trophic Hg transfer.  
+      <br><em>Refs:</em> <a href="https://bg.copernicus.org/articles/22/7929/2025/bg-22-7929-2025.pdf">Baltic Hg cycling</a>, <a href="https://bg.copernicus.org/articles/22/7425/2025/bg-22-7425-2025.pdf">Mediterranean Hg modelling</a>
+    </p>
+  </div>
+  <div class="model-image">
+    <img src="/assets/images/Ecosmo.png" alt="ECOSMO_E2E-MERCY-GOTM Model"/>
+  </div>
+</div>
+
+## ECOSMO_FS-MERCY-GOTM
+<div class="model-row">
+  <div class="model-image">
+    <img src="/assets/images/Models.png" alt="ECOSMO_FS-MERCY-GOTM Model"/>
+  </div>
+  <div class="model-text">
+    <p>
+      ECOSMO_FS-MERCY-GOTM adds **feeding strategy dynamics**, exploring how prey selection and trophic behavior influence MeHg bioaccumulation. Links prey composition, DOM uptake, and demethylation rates to Hg transfer in mid-trophic fish and benthic consumers.  
+      <br><em>Ref:</em> <a href="https://bg.copernicus.org/articles/22/7483/2025/bg-22-7483-2025.pdf">Feeding strategy model</a>
+    </p>
+  </div>
+</div>
+
+## ECOSMO-Sponge
+<div class="model-row">
+  <div class="model-text">
+    <p>
+      ECOSMO‑Sponge couples GOTM, ECOSMO E2E, and MERCY v2.0 to simulate Hg bioaccumulation. Resolves iHg and MeHg across trophic levels and links atmospheric deposition to mid-trophic fish. Incorporates sponge feeding strategies including DOM uptake to study how sponge communities modulate Hg transfer. Captures both water bioconcentration and trophic biomagnification in benthic ecosystems.
+    </p>
+  </div>
+  <div class="model-image">
+    <img src="/assets/images/SpongeGraphicalAbstract.png" alt="ECOSMO-Sponge Model"/>
+  </div>
+</div>---
+layout: single
+title: Models
+permalink: /models/
+---
+
+<style>
+.model-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 40px;
+  margin-bottom: 60px;
   width: 100vw; /* full viewport width */
   max-width: 1200px; /* optional max width for readability */
   margin-left: calc(-50vw + 50%); /* center the row */
