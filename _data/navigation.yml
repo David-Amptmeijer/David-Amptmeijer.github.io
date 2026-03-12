@@ -1,0 +1,15 @@
+main:
+  - title: "CV"
+    url: /cv/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Media"
+    url: /media/
