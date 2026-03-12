@@ -1,19 +1,1 @@
----
-# Only the front matter lines are required for Jekyll to process SCSS
----
 
-/* Import the Minimal Mistakes default CSS first */
-@import "minimal-mistakes";
-
-/* Your custom overrides go below */
-
-/* 1. Make hero banner taller */
-.page__hero--overlay {
-  min-height: 800px;          /* adjust as needed */
-  background-position: center top; /* prevent cropping your head */
-}
-
-/* 2. Optional: move hero text down */
-.page__hero__inner {
-  padding-top: 200px;         /* push title down from top of image */
-}
