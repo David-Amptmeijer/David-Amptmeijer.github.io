@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Projects
-permalink: /media/
+permalink: /projects/
 ---
 
 # Projects
