@@ -4,8 +4,6 @@ title: "Media"
 permalink: /media/
 ---
 
-# Media
-
 ## Fieldwork & Conferences
 Highlight your SCALE-WIN22 cruise, Abisko meeting, GMOS-Train winter schools, and ICMGP participation.
 
