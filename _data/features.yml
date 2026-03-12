@@ -26,3 +26,8 @@ links:
     url: /cv/
     btn_label: "Curriculum Vitae"
     btn_class: "btn--primary"
+
+  - title: "Models"
+    url: /models/
+    btn_label: "Models"
+    btn_class: "btn--primary"
