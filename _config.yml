@@ -1,14 +1,12 @@
-
-
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 title: "David Amptmeijer"
 description: "Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry"
 
-# Enable site-wide navigation
 header_pages:
   - cv.md
   - research.md
