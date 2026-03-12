@@ -7,8 +7,6 @@ header:
   overlay_filter: 0.35
 ---
 
-# David J. Amptmeijer
-
 ### Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry
 
 I am an environmental scientist studying **inorganic and organic mercury cycling**, **methylmercury bioaccumulation**, and **exposure pathways in aquatic ecosystems**.
