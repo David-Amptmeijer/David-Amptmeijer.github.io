@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 ## Journal Articles (2023–2025)
 
 - **Amptmeijer, D. J.**, & Bieser, J. (2025). *Bioconcentration as a key driver of Hg bioaccumulation in high‑trophic‑level fish.*  
