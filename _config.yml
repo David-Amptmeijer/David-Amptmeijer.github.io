@@ -2,12 +2,11 @@
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-title: "David Amptmeijer"
-description: "Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry"
-
-
 plugins:
   - jekyll-include-cache
+
+title: "David Amptmeijer"
+description: "Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry"
 
 # Enable site-wide navigation
 header_pages:
