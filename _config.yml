@@ -1,5 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+sass:
+  sass_dir: _sass    # default for Minimal Mistakes theme
+  style: compressed  # optional, minifies CSS
+
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
