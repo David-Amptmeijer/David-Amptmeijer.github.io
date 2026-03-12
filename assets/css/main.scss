@@ -1,6 +1,17 @@
 ---
 ---
 
+/* Safely increase hero banner height for splash layout */
+.splash .page__hero--overlay {
+  min-height: 550px !important; /* adjust height here */
+}
+
+/* Optional: Add a bit more spacing below the title */
+.splash .page__hero__inner {
+  padding-top: 40px; /* small, safe value */
+}---
+---
+
 /* Increase the height of the splash hero banner */
 .splash .page__hero--overlay {
   min-height: 600px !important;
