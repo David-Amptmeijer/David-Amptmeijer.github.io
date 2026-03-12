@@ -1,5 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+include:
+  - assets
+
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
