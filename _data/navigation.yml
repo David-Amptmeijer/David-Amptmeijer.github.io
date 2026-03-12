@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
 
-  - title: "Media"
-    url: /media/
+#  - title: "Media"
+#    url: /media/
