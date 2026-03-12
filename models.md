@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Models
-permalink: /projects/
+permalink: /models/
 ---
 
 ## ECOSMO_E2E-MERCY-GOTM
