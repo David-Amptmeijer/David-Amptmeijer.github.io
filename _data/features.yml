@@ -1,0 +1,28 @@
+research:
+  - image_path: /images/modelling.jpg
+    title: "Biogeochemical Modelling"
+    excerpt: "Hydrodynamic and ecosystem modelling of mercury cycling."
+
+  - image_path: /images/foodweb.jpg
+    title: "Food Web Bioaccumulation"
+    excerpt: "Understanding methylmercury transfer through marine food webs."
+
+  - image_path: /images/fieldwork.jpg
+    title: "Field Observations"
+    excerpt: "Sampling campaigns studying mercury transformations."
+
+links:
+  - title: "Research"
+    url: /research/
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+
+  - title: "Publications"
+    url: /publications/
+    btn_label: "View papers"
+    btn_class: "btn--primary"
+
+  - title: "CV"
+    url: /cv/
+    btn_label: "Curriculum Vitae"
+    btn_class: "btn--primary"
