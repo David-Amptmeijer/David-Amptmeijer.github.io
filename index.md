@@ -5,7 +5,7 @@ title: "David J. Amptmeijer"
 header:
   overlay_image: /images/WithPenguins2.jpg
   overlay_filter: 0.35
-  overlay_image_class: tall
+  overlay_image_class: fullscreen
 ---
 
 # David J. Amptmeijer
