@@ -9,17 +9,13 @@ permalink: /models/
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
-  gap: 40px;
+  gap: 40px;       /* space between text and image */
   margin-bottom: 60px;
-
-  width: 66.66%;      /* ~2/3 of the screen */
-  margin-left: auto;   /* center horizontally */
-  margin-right: auto;
 }
 
 .model-text, .model-image {
-  flex: 1 1 45%;       /* columns take ~45% each */
-  min-width: 300px;
+  flex: 1 1 45%;   /* roughly half the row each */
+  min-width: 300px; /* ensures stacking on small screens */
 }
 
 .model-image img {
@@ -48,7 +44,7 @@ permalink: /models/
   </div>
   <div class="model-text">
     <p>
-      ECOSMO_FS-MERCY-GOTM adds feeding strategy dynamics, exploring how prey selection and trophic behavior influence MeHg bioaccumulation. This model foccusses on linking MeHg bioaccumulation in high trophic level to the feeding strategy at the base of the food web. 
+      ECOSMO_FS-MERCY-GOTM adds feeding strategy dynamics, exploring how prey selection and trophic behavior influence MeHg bioaccumulation. Focuses on linking MeHg bioaccumulation at higher trophic levels to feeding strategy at the base of the food web.
     </p>
   </div>
 </div>
