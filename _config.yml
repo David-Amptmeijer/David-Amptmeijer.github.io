@@ -3,6 +3,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 include:
   - assets
 
+sass:
+  sass_dir: _sass
+
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
