@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: single
 title: Publications
+permalink: /media/
 ---
 
 # Publications
