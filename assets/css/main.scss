@@ -1,7 +1,10 @@
 ---
 ---
 
+@import "minimal-mistakes";
+
+/* Increase hero banner height */
 .page__hero--overlay {
-  min-height: 750px;
+  min-height: 800px;
   background-position: center top;
 }
