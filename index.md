@@ -1,6 +1,11 @@
 ---
-layout: default
-title: Home
+
+layout: single
+title: "David J. Amptmeijer"
+classes: wide
+header:
+  overlay_image: "images/ocean-header.jpg"
+  overlay_filter: 0.2
 ---
 
 # David J. Amptmeijer  
