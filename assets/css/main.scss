@@ -1,4 +1,21 @@
+---
+---
 
+@import "minimal-mistakes";
+
+/* --- Custom hero banner tweaks --- */
+
+/* Make splash hero banner taller */
+.page__hero--overlay {
+  min-height: 800px;           /* adjust as needed: bigger number = taller */
+  background-position: center;  /* center the image vertically & horizontally */
+  background-size: cover;       /* cover entire banner area */
+}
+
+/* Move title down from the very top */
+.page__hero__inner {
+  padding-top: 25vh;           /* adjust vertical placement of text */
+}
 /* Safely increase hero banner height for splash layout */
 .splash .page__hero--overlay {
   min-height: 550px !important; /* adjust height here */
