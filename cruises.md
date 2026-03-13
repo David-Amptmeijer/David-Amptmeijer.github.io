@@ -33,7 +33,6 @@ permalink: /cruises/
     <img src="/images/Nioz.jpg" alt="Rothera Research Station">
     <img src="/images/Stenenkeren.jpg" alt="Fieldwork Antarctica">
   </div>
-</div>
 <div class="field-text">
   <p>
   Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
@@ -78,7 +77,6 @@ permalink: /cruises/
     <img src="/images/OnSeaRover.jpg" alt="Rothera Research Station">
     <img src="/images/BI.jpg" alt="Fieldwork Antarctica">
   </div>
-</div>
   <div class="field-text">
     <p>
       Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
