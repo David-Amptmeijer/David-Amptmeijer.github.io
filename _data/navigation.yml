@@ -13,3 +13,7 @@ main:
 
   - title: "Models"
     url: /models/
+
+
+  - title: "Cruises"
+    url: /cruises/
