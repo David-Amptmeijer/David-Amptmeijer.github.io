@@ -3,6 +3,9 @@ layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+header:
+  overlay_image: /images/SouthernOcean.jpg
+  overlay_filter: 0.35
 ---
 
 
