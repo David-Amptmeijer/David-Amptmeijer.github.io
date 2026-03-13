@@ -22,7 +22,7 @@ permalink: /publications/
   DOI: [10.1016/j.ecss.2020.106909](https://doi.org/10.1016/j.ecss.2020.106909)
 
 - van der Kooi, C. J., Ghali, K., **Amptmeijer, D. J.**, & Schwander, T. (2020). *Niche differentiation among clones in asexual grass thrips.* Journal of Evolutionary Biology, 32(1), 126–130.  
-  DOI: [10.1111/jeb.13350](https://doi.org/10.1111/jeb.13350)
+  DOI: [10.1093/jeb/voaf076](https://doi.org/10.1093/jeb/voaf076)
 
 ---
 
