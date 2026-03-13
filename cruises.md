@@ -34,18 +34,18 @@ permalink: /cruises/
     <img src="/images/Stenenkeren.jpg" alt="Fieldwork Antarctica">
   </div>
 </div>
-  <div class="field-text">
-    <p>
-      Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
-      During this time I participated in marine ecosystem observations and polar field operations.
-    </p>
-
-    <p>
+<div class="field-text">
+  <p>
+  Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
+  During this time I participated in marine ecosystem observations and polar field operations.
+  </p>
+  <p>
       The return journey to South America was conducted aboard a research vessel crossing the
       Southern Ocean, providing an opportunity to observe large-scale oceanographic conditions
       and Antarctic marine ecosystems.
-    </p>
+   </p>
   </div>
+</div>
 
 ---
 
@@ -84,13 +84,8 @@ permalink: /cruises/
       Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
       During this time I participated in marine ecosystem observations and polar field operations.
     </p>
-
-    <p>
-      The return journey to South America was conducted aboard a research vessel crossing the
-      Southern Ocean, providing an opportunity to observe large-scale oceanographic conditions
-      and Antarctic marine ecosystems.
-    </p>
   </div>
+</div>
 
 ---
 
@@ -102,7 +97,6 @@ permalink: /cruises/
       Participation in the <strong>SCALE-WIN22 research cruise</strong> investigating mercury
       speciation in the Southern Ocean.
     </p>
-
     <p>
       The expedition collected measurements of mercury cycling in Antarctic waters to better
       understand links between atmospheric deposition, ocean biogeochemistry, and marine food webs.
