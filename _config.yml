@@ -11,4 +11,12 @@ plugins:
 title: "David Amptmeijer"
 description: "Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry"
 
+title: David J. Amptmeijer
+description: Marine biogeochemist studying mercury cycling and methylmercury bioaccumulation in aquatic ecosystems.
+
+author:
+  name: David J. Amptmeijer
+
+og_image: /images/WithPenguins2.jpg
+
 markdown: kramdown
