@@ -16,27 +16,7 @@ og_image: /images/WithPenguins2.jpg
 
 academicons: true
 
-author:
-  name: "David J. Amptmeijer"
-  links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=449t7_wAAAAJ&hl=en"
-
-    - label: "ResearchGate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/David-Amptmeijer"
-
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0003-1342-6564"
-
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/david-amptmeijer-13097615b/"
-
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/david-amptmeijer"
-
 markdown: kramdown
+
+head_scripts:
+  - https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css
