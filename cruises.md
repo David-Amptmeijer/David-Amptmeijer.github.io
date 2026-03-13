@@ -61,14 +61,15 @@ header:
       Six-month research stay at the <strong>University Centre in Svalbard (UNIS)</strong>, conducting
       Arctic marine ecosystem research.
     </p>
- </div>
- <div class="field-image">
-    <img src="/images/Svalbard.jpg" alt="Svalbard Glacier">
-    <img src="/images/ArcticDive.jpg" alt="Svalbard Cruise">
     <p>
       During this period I participated in <strong>two Arctic research cruises</strong> around the
       Svalbard archipelago, collecting observations of marine ecosystems and polar oceanography.
     </p>
+ </div>
+ <div class="field-image">
+    <img src="/images/Svalbard.jpg" alt="Svalbard Glacier">
+    <img src="/images/ArcticDive.jpg" alt="Svalbard Cruise">
+
   </div>
 </div>
 
