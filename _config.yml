@@ -1,21 +1,19 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 sass:
-  sass_dir: _sass    # default for Minimal Mistakes theme
-  style: compressed  # optional, minifies CSS
+  sass_dir: _sass
+  style: compressed
 
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-title: "David Amptmeijer"
-description: "Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry"
-
-title: David J. Amptmeijer
-description: Marine biogeochemist studying mercury cycling and methylmercury bioaccumulation in aquatic ecosystems.
+title: "David J. Amptmeijer"
+description: "Marine biogeochemist studying mercury cycling and methylmercury bioaccumulation in aquatic ecosystems."
 
 author:
-  name: David J. Amptmeijer
+  name: "David J. Amptmeijer"
 
 og_image: /images/WithPenguins2.jpg
 
