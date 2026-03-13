@@ -2,6 +2,9 @@
 layout: single
 title: Models
 permalink: /models/
+header:
+  overlay_image: /images/SouthernOcean.jpg
+  overlay_filter: 0.35
 ---
 
 <style>
