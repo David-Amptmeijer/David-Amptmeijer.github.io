@@ -2,6 +2,10 @@
 layout: single
 title: Research
 permalink: /research/
+
+header:
+  overlay_image: /images/SouthernOcean.jpg
+  overlay_filter: 0.35
 ---
 
 My research focuses on mercury cycling in aquatic systems, with an emphasis on the processes that transform inorganic mercury into methylmercury (MeHg) and the biological mechanisms that regulate its bioaccumulation in marine and freshwater food webs.
