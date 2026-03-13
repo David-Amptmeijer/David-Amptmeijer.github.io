@@ -1,16 +1,10 @@
 ---
 layout: single
-title: Curriculum Vitae — David J. Amptmeijer
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
 
-📧 **Email:** david.amptmeijer@hereon.de  
-📍 **Location:** Bremerhaven, Germany  
-🔗 **LinkedIn:** https://www.linkedin.com/in/david-amptmeijer  
-🔗 **GitHub:** https://github.com/David-Amptmeijer
-
----
 
 ## Research Interests
 - Mercury (Hg) cycling  
