@@ -39,13 +39,13 @@ permalink: /models/
 
 ## [ECOSMO_FS-MERCY-GOTM](https://bg.copernicus.org/articles/22/7483/2025/bg-22-7483-2025.pdf)
 <div class="model-row">
-  <div class="model-image">
-    <img src="/images/Model.png" alt="ECOSMO_FS-MERCY-GOTM Model"/>
-  </div>
   <div class="model-text">
     <p>
       ECOSMO_FS-MERCY-GOTM adds feeding strategy dynamics, exploring how prey selection and trophic behavior influence MeHg bioaccumulation. Focuses on linking MeHg bioaccumulation at higher trophic levels to feeding strategy at the base of the food web.
     </p>
+  </div>  
+  <div class="model-image">
+    <img src="/images/Model.png" alt="ECOSMO_FS-MERCY-GOTM Model"/>
   </div>
 </div>
 
