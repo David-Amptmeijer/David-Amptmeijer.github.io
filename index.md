@@ -34,19 +34,3 @@ My work focuses on:
 ## Contact
 
 📧 **Email:** david.amptmeijer@hereon.de  
-
-### Academic Profiles
-<p>
-  <a href="https://scholar.google.com/citations?user=449t7_wAAAAJ&hl=en" target="_blank">
-    <img src="/images/icons/google-scholar.png" alt="Google Scholar" width="32" style="margin-right:10px;">
-  </a>
-  <a href="https://www.researchgate.net/profile/David-Amptmeijer?ev=hdr_xprf" target="_blank">
-    <img src="/images/icons/researchgate.png" alt="ResearchGate" width="32" style="margin-right:10px;">
-  </a>
-  <a href="https://orcid.org/0000-0003-1342-6564" target="_blank">
-    <img src="/images/icons/orcid.png" alt="ORCID" width="32" style="margin-right:10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/david-amptmeijer-13097615b/" target="_blank">
-    <img src="/images/icons/linkedin.png" alt="LinkedIn" width="32">
-  </a>
-</p>
