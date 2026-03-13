@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Models
 permalink: /models/
 header:
