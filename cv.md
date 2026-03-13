@@ -2,6 +2,7 @@
 layout: single
 title: Curriculum Vitae — David J. Amptmeijer
 permalink: /cv/
+author_profile: true
 ---
 
 📧 **Email:** david.amptmeijer@hereon.de  
