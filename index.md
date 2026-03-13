@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.35
 ---
 
-### Environmental Scientist | Mercury Cycling | Aquatic Biogeochemistry
+### Environmental Scientist | Pollution Cycling | Aquatic Biogeochemistry
 
 I am an environmental scientist studying **inorganic and organic mercury cycling**, **methylmercury bioaccumulation**, and **exposure pathways in aquatic ecosystems**.
 
@@ -24,8 +24,8 @@ My work focuses on:
 - Mercury speciation in aquatic systems  
 - Bioaccumulation in marine food webs  
 - Biogeochemical and ecosystem modelling  
-- DOM interactions and demethylation processes  
-- Environmental exposure pathways  
+- DOM interactions and their link to bioaccumulation processes  
+- Environmental exposure pathways of pollutants such as methylmercury and PFAS
 
 ---
 
