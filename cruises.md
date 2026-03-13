@@ -26,9 +26,14 @@ permalink: /cruises/
 }
 </style>
 
-## Rothera Research Station – Antarctica
+## Field work and diving – The Netherlands
 
 <div class="field-row">
+  <div class="field-image">
+    <img src="/images/Nioz.jpg" alt="Rothera Research Station">
+    <img src="/images/Stenenkeren.jpg" alt="Fieldwork Antarctica">
+  </div>
+</div>
   <div class="field-text">
     <p>
       Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
@@ -42,34 +47,50 @@ permalink: /cruises/
     </p>
   </div>
 
-  <div class="field-image">
-    <img src="/images/rothera_station.jpg" alt="Rothera Research Station">
-    <img src="/images/rothera_fieldwork.jpg" alt="Fieldwork Antarctica">
-  </div>
-</div>
-
 ---
 
 ## Arctic Research – Svalbard
 
 <div class="field-row">
-  <div class="field-image">
-    <img src="/images/svalbard_glacier.jpg" alt="Svalbard Glacier">
-    <img src="/images/svalbard_ship.jpg" alt="Svalbard Cruise">
-  </div>
 
   <div class="field-text">
     <p>
       Six-month research stay at the <strong>University Centre in Svalbard (UNIS)</strong>, conducting
       Arctic marine ecosystem research.
     </p>
-
+ </div>
+ <div class="field-image">
+    <img src="/images/Svalbard.jpg" alt="Svalbard Glacier">
+    <img src="/images/ArcticDive.jpg" alt="Svalbard Cruise">
     <p>
       During this period I participated in <strong>two Arctic research cruises</strong> around the
       Svalbard archipelago, collecting observations of marine ecosystems and polar oceanography.
     </p>
   </div>
 </div>
+
+---
+
+## Rothera Research Station – Antarctica
+
+<div class="field-row">
+  <div class="field-image">
+    <img src="/images/OnSeaRover.jpg" alt="Rothera Research Station">
+    <img src="/images/rothera_fieldwork.jpg" alt="Fieldwork Antarctica">
+  </div>
+</div>
+  <div class="field-text">
+    <p>
+      Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
+      During this time I participated in marine ecosystem observations and polar field operations.
+    </p>
+
+    <p>
+      The return journey to South America was conducted aboard a research vessel crossing the
+      Southern Ocean, providing an opportunity to observe large-scale oceanographic conditions
+      and Antarctic marine ecosystems.
+    </p>
+  </div>
 
 ---
 
@@ -89,7 +110,7 @@ permalink: /cruises/
   </div>
 
   <div class="field-image">
-    <img src="/images/scale_win22_ship.jpg" alt="Research vessel">
-    <img src="/images/ctd_sampling.jpg" alt="Ocean sampling equipment">
+    <img src="/images/EpicSelfie.jpg" alt="Research vessel">
+    <img src="/images/PancakeIceSunrise.jpg" alt="Ocean sampling equipment">
   </div>
 </div>
