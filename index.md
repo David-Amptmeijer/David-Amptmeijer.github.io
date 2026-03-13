@@ -1,6 +1,8 @@
 ---
 layout: splash
 title: "David J. Amptmeijer"
+description: Marine biogeochemist studying mercury cycling and methylmercury bioaccumulation in aquatic ecosystems using ecosystem modelling.
+author: David J. Amptmeijer
 
 header:
   overlay_image: /images/WithPenguins2.jpg
