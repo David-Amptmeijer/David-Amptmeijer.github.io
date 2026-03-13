@@ -76,7 +76,7 @@ permalink: /cruises/
 <div class="field-row">
   <div class="field-image">
     <img src="/images/OnSeaRover.jpg" alt="Rothera Research Station">
-    <img src="/images/rothera_fieldwork.jpg" alt="Fieldwork Antarctica">
+    <img src="/images/BI.jpg" alt="Fieldwork Antarctica">
   </div>
 </div>
   <div class="field-text">
