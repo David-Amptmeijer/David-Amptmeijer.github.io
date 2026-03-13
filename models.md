@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Models
+title: "Models"
 permalink: /models/
 ---
 
