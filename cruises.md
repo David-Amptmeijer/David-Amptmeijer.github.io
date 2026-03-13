@@ -39,15 +39,18 @@ header:
   </div>
 <div class="field-text">
   <p>
-  Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
-  During this time I participated in marine ecosystem observations and polar field operations.
+    As an MSc student, I conducted extensive <strong>independent scientific diving</strong> for field observations, 
+    systematically documenting marine biodiversity and benthic community structure.
   </p>
   <p>
-      The return journey to South America was conducted aboard a research vessel crossing the
-      Southern Ocean, providing an opportunity to observe large-scale oceanographic conditions
-      and Antarctic marine ecosystems.
-   </p>
-  </div>
+    Organized and instructed the <strong>Underwater Biology specialty course</strong> for the diving organization 
+    Calamari, training fellow divers in marine species identification and ecological survey techniques.
+  </p>
+  <p>
+    Planned and led multiple <strong>wildlife monitoring field trips</strong> across the Netherlands, contributing 
+    citizen science data on marine and coastal species distributions to regional biodiversity databases.
+  </p>
+</div>
 </div>
 
 ---
@@ -58,18 +61,22 @@ header:
 
   <div class="field-text">
     <p>
-      Six-month research stay at the <strong>University Centre in Svalbard (UNIS)</strong>, conducting
-      Arctic marine ecosystem research.
+      Semester at the <strong>University Centre in Svalbard (UNIS)</strong>, following an extra-curricular minor in
+      <strong>Arctic Biology</strong> and <strong>Arctic Marine Biology</strong>, with a focus on high-latitude marine ecosystems and climate-driven change.
     </p>
     <p>
-      During this period I participated in <strong>two Arctic research cruises</strong> around the
-      Svalbard archipelago, collecting observations of marine ecosystems and polar oceanography.
+      As part of the field-based teaching at UNIS, I participated in <strong>two Arctic research cruises</strong> around the
+      Svalbard archipelago, helping to collect and interpret data on marine ecosystems and polar oceanography.
     </p>
- </div>
- <div class="field-image">
+    <p>
+      During my stay I also carried out <strong>independent diving along the Svalbard fjords</strong>, documenting benthic invertebrates,
+      including nudibranchs such as <em>Dendronotus robustus</em>, and building first-hand experience with Arctic underwater habitats.
+    </p>
+  </div>
+
+  <div class="field-image">
     <img src="/images/Svalbard.jpg" alt="Svalbard Glacier">
     <img src="/images/ArcticDive.jpg" alt="Svalbard Cruise">
-
   </div>
 </div>
 
@@ -84,8 +91,16 @@ header:
   </div>
   <div class="field-text">
     <p>
-      Six-month research stay at the <strong>British Antarctic Survey – Rothera Research Station</strong>.
-      During this time I participated in marine ecosystem observations and polar field operations.
+      Six-month research assistant position at the <strong>British Antarctic Survey – Rothera Research Station</strong> during my MSc, 
+      focusing on marine ecosystem monitoring and polar field operations in Antarctica.
+    </p>
+    <p>
+      Working as <strong>coxswain on small boat operations</strong>, I led daily trips to Sheldon Glacier in Ryder Bay to collect water 
+      and biological samples for analysis of persistent organic pollutants (POPs).
+    </p>
+    <p>
+      These samples contributed to ongoing studies of pollutant dynamics in Antarctic marine food webs, providing hands-on experience 
+      with polar fieldwork logistics and small boat handling under extreme conditions.
     </p>
   </div>
 </div>
@@ -95,16 +110,20 @@ header:
 ## Southern Ocean Mercury Expedition – SCALE-WIN22
 
 <div class="field-row">
-  <div class="field-text">
-    <p>
-      Participation in the <strong>SCALE-WIN22 research cruise</strong> investigating mercury
-      speciation in the Southern Ocean.
-    </p>
-    <p>
-      The expedition collected measurements of mercury cycling in Antarctic waters to better
-      understand links between atmospheric deposition, ocean biogeochemistry, and marine food webs.
-    </p>
-  </div>
+<div class="field-text">
+  <p>
+    Participation in the <strong>SCALE-WIN22 research cruise (WIN22)</strong> to the Marginal Sea Ice Zone during Antarctic winter, 
+    investigating mercury (Hg) cycling and speciation in Southern Ocean waters.
+  </p>
+  <p>
+    The expedition focused on understanding atmospheric deposition, ocean biogeochemistry, and Hg transfer into marine food webs 
+    under winter sea ice conditions.
+  </p>
+  <p>
+    In addition to the main Hg project, I collected samples for analysis of <strong>persistent organic pollutants (POPs)</strong>, 
+    contributing to comprehensive pollutant dynamics research in this extreme high-latitude environment.
+  </p>
+</div>
 
   <div class="field-image">
     <img src="/images/EpicSelfie.jpg" alt="Research vessel">
