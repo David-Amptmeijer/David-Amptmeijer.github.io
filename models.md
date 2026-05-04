@@ -30,6 +30,7 @@ permalink: /models/
   <div class="model-text">
     <p>
       ECOSMO_E2E-MERCY-GOTM couples the ECOSMO E2E ecosystem model with GOTM hydrodynamics and the MERCY mercury module to study mercury cycling in marine ecosystems. Explicitly resolves iHg and MeHg speciation, linking atmospheric deposition to bioaccumulation in mid-trophic level fish. Captures DOM cycling, benthic-pelagic coupling, and trophic Hg transfer.
+Model code: https://doi.org/10.5281/zenodo.17372353
     </p>
   </div>
   <div class="model-image">
